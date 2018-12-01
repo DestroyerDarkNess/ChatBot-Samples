@@ -5,4 +5,4 @@ Examples of Chatbots in VB.NET.
 
 https://mega.nz/#!4pF1RTzI!SY2vem7UJUsNv0yGsPlkpK528_Pjin-ouQzdJ5y3nVM
 
-[url=www.google.com] aa[/url]
+![texto cualquiera por si no carga la imagen](http://i68.tinypic.com/sv57gw.jpg)
